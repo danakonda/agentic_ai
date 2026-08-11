@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+pandas
+pydantic
+yt-dlp
+langchain
+langchain-google-genai
+langchain-tavily
+huggingface-hub
